@@ -1,8 +1,6 @@
 # Tosser
 
-Want to be able to throw your items like tridents? Now you can. 
-
-_[Original](https://www.planetminecraft.com/data-pack/throwable-swords/) by by PvPqnda_
+Want to be able to throw your items like tridents? Now you can. _[Original](https://www.planetminecraft.com/data-pack/throwable-swords/) by by PvPqnda_
 
 For **Minecraft 1.17**
 
