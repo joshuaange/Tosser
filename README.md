@@ -2,7 +2,7 @@
 
 Want to be able to throw your items like tridents? Now you can. 
 
-_Original concept by [PvPqnda](https://www.planetminecraft.com/data-pack/throwable-swords/)_
+_[Original](https://www.planetminecraft.com/data-pack/throwable-swords/) by by PvPqnda_
 
 For **Minecraft 1.17**
 
