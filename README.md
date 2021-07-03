@@ -14,7 +14,9 @@ Datapack Features:
 
 * Thrown items  damage mobs and players, break glass, cut grass, extinguish candles, and more!
 
-* Thrown item will still lose 5 durability upon hitting!
+* Thrown item will lose 5 durability upon hitting!
+
+* No spam throwing! 1/2 second intervals!
 
 Survival & Multiplayer friendly
 
